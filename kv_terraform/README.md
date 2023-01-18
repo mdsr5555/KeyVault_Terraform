@@ -11,7 +11,7 @@ This repository contains Terraform code for creating an Azure resource group, ke
 * rg_location: Location of the resource group. **_(required)_**
 * kv_name: Name of the key vault. **_(required)_**
 * kv_sku_name: SKU name for the key vault. **_(required)_**
-* tenant_id: he AAD tenant ID that should be used for authenticating requests to the key vault.  **_(required)_**
+* tenant_id: The AAD tenant ID that should be used for authenticating requests to the key vault.  **_(required)_**
 * kv_enabled_for_purge_protection: Enable or disable purge protection for the key vault.
 * kv_enabled_for_rbac_authorization: Enable or disable RBAC authorization for the key vault.
 ## Outputs
