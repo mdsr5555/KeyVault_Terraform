@@ -1,0 +1,5 @@
+rg_name = "test-rg-kv-180123"
+rg_location = "uksouth"
+kv_name = "kv180123"
+kv_sku_name = "standard"
+kv_enabled_for_purge_protection = "true"
